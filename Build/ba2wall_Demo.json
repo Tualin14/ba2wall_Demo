@@ -1,0 +1,16 @@
+{
+"companyName": "dzaaaaaa",
+"productName": "ba2wall",
+"productVersion": "2.0.0",
+"dataUrl": "ba2wall_Demo.data.unityweb",
+"wasmCodeUrl": "ba2wall_Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "ba2wall_Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}

@@ -1,0 +1,29 @@
+{
+    "student": "Yuuka_home",
+    "debug": false,
+    "imageList": [
+        "Yuuka_home",
+        "Yuuka_home2"
+    ],
+    "bgmVolume": 0.2,
+    "talk": {
+        "volume": 1,
+        "onlyTalk": false,
+        "maxIndex": 6,
+        "voiceList":[
+            "Yuuka_MemorialLobby_1_1",
+            "Yuuka_MemorialLobby_1_2",
+            "Yuuka_MemorialLobby_2_1",
+            "Yuuka_MemorialLobby_2_2",
+            "Yuuka_MemorialLobby_3_1",
+            "Yuuka_MemorialLobby_3_2",
+            "Yuuka_MemorialLobby_4_1",
+            "Yuuka_MemorialLobby_4_2",
+            "Yuuka_MemorialLobby_4_3",
+            "Yuuka_MemorialLobby_5_1",
+            "Yuuka_MemorialLobby_5_2",
+            "Yuuka_MemorialLobby_6_1",
+            "Yuuka_MemorialLobby_6_2"
+        ]
+    }
+}
